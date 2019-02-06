@@ -1,10 +1,10 @@
 
-function shout(string){
+function shout('Hello'){
   return 
   'Hello'.toUpperCase()
 }
 
-function whisper(string){
+function whisper('HELLO'){
   return 
   'HELLO'.toLowerCase()
 }
